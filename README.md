@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aagam Sheth</h1>
-<h3 align="center">A passionate Software Developer.</h3>
+<h1 align="center">Hi 👋, I am Aagam Sheth</h1>
+<h3 align="center">A Passionate Software Developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aagamsheth0601" alt="aagamsheth0601" /></a> </p>
 
